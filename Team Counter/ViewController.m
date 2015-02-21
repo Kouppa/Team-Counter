@@ -19,6 +19,16 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+-(IBAction)plus{
+    number=number+1;
+    label.text=[NSString stringWithFormat:@"%d", number];
+}
+
+-(IBAction)clear{
+    number=0;
+    label.text=[NSString stringWithFormat:@"%d", number];
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
