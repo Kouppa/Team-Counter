@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CA4D10D4-B266-4137-BC7E-0DC72EBE88FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Team Counter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>307838053CA07D9D34EFEC88F5C4E0F8D37193A0</key>
+		<string>https://github.com/Kouppa/team-counter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Team Counter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>307838053CA07D9D34EFEC88F5C4E0F8D37193A0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kouppa/team-counter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>307838053CA07D9D34EFEC88F5C4E0F8D37193A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>307838053CA07D9D34EFEC88F5C4E0F8D37193A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>team-counter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
