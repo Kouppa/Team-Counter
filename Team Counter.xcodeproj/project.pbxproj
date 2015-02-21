@@ -14,6 +14,7 @@
 		845842951A98535A00E77F2E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845842941A98535A00E77F2E /* Images.xcassets */; };
 		845842981A98535A00E77F2E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 845842961A98535A00E77F2E /* LaunchScreen.xib */; };
 		845842A41A98535A00E77F2E /* Team_CounterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 845842A31A98535A00E77F2E /* Team_CounterTests.m */; };
+		CE8328191A98566200E23AAD /* iphone-6-plus-wallpaper-dark-pattern-07_6746d9790e10cbe0e04e6ca0f5f8dbaf_raw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8328181A98566200E23AAD /* iphone-6-plus-wallpaper-dark-pattern-07_6746d9790e10cbe0e04e6ca0f5f8dbaf_raw.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		8458429D1A98535A00E77F2E /* Team CounterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Team CounterTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		845842A21A98535A00E77F2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		845842A31A98535A00E77F2E /* Team_CounterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Team_CounterTests.m; sourceTree = "<group>"; };
+		CE8328181A98566200E23AAD /* iphone-6-plus-wallpaper-dark-pattern-07_6746d9790e10cbe0e04e6ca0f5f8dbaf_raw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-wallpaper-dark-pattern-07_6746d9790e10cbe0e04e6ca0f5f8dbaf_raw.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				845842861A98535A00E77F2E /* Team Counter */,
 				845842A01A98535A00E77F2E /* Team CounterTests */,
 				845842851A98535A00E77F2E /* Products */,
+				CE8328181A98566200E23AAD /* iphone-6-plus-wallpaper-dark-pattern-07_6746d9790e10cbe0e04e6ca0f5f8dbaf_raw.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -203,6 +206,7 @@
 				845842931A98535A00E77F2E /* Main.storyboard in Resources */,
 				845842981A98535A00E77F2E /* LaunchScreen.xib in Resources */,
 				845842951A98535A00E77F2E /* Images.xcassets in Resources */,
+				CE8328191A98566200E23AAD /* iphone-6-plus-wallpaper-dark-pattern-07_6746d9790e10cbe0e04e6ca0f5f8dbaf_raw.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,6 +417,7 @@
 				845842A91A98535A00E77F2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		845842AA1A98535A00E77F2E /* Build configuration list for PBXNativeTarget "Team CounterTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +426,7 @@
 				845842AC1A98535A00E77F2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
